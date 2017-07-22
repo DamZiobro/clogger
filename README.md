@@ -15,8 +15,17 @@ Usage (see picture)
 ------
 ![pipeline10](https://raw.githubusercontent.com/xmementoit/clogger/master/clogger.png)
 
+Prerequisities
+-----
+clogger is based on `colorlog`. Install it first:
+```
+sudo apt-get install python-pip
+sudo pip install colorlog
+```
+
 Install
 --------
+
 ```
 cp clogger.py /usr/bin/clogger
 ```
