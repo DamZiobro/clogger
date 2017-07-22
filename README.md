@@ -16,7 +16,7 @@ cp clogger.py /usr/bin/clogger
 
 Usage (see picture)
 ------
-![clogger.png]
+![pipeline10](https://raw.githubusercontent.com/xmementoit/clogger/master/clogger.png)
 
 Options
 ------
